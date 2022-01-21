@@ -1,0 +1,227 @@
+    1  cd /mn/c/Users/aweki/OneDrive - University of Canterbury/2021/Sem2/459
+    2  cd /mnt/c/Users/aweki/OneDrive - University of Canterbury/2021/Sem2/459
+    3  cd '/mnt/c/Users/aweki/OneDrive - University of Canterbury/2021/Sem2/459'
+    4  ls
+    5  cd '/mnt/c/Users/aweki/OneDrive - University of Canterbury/2021/Sem2/459/Assignment 2'
+    6  ls
+    7  less ssc_2016_12_20_chromlevel.gff 
+    8  cd '/mnt/c/Users/aweki/OneDrive - University of Canterbury/2021/Sem2/459/Assignment 2'
+    9  ls
+   10  less scc_2016_12_20_chromlevel.gff
+   11  ls
+   12  less ssc_2016_12_20_chromlevel.gff 
+   13  pwd
+   14  ls
+   15  man gunzip
+   16  ls /mnt/c
+   17  ls /mnt/c/Users/aweki/Downloads/
+   18  cd /mnt/c/Users/aweki/Downloads/
+   19  ls -lat | head
+   20  gunzip LGSK01.1.gbff.gz 
+   21  ls -lat |hrad
+   22  ls -lat | head
+   23  head LGSK01.1.gbff
+   24  pwd
+   25  ls
+   26  ls /home/awekie
+   27  /home/awekie ls
+   28  ls
+   29  print
+   30  cd..
+   31  cd /home/awekiie
+   32  cd /home/awekie
+   33  pwd
+   34  whoami
+   35  cd..
+   36  cd.
+   37  cd ..
+   38  ls
+   39  cd /home/awekie
+   40  pwd
+   41  ls
+   42  ls home/awekie
+   43  ls /home/awekie
+   44  cd ..
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd root
+   49  cd/root
+   50  cd/
+   51  cd /
+   52  pwd
+   53  ls
+   54  cd /home
+   55  ls
+   56  cd /home/awekie
+   57  ls
+   58  pwd
+   59  mkdir GKB4
+   60  ls
+   61  mv genome_assemblies_all_files.tar /home/awekie/GKB4
+   62  pwd
+   63  ls
+   64  cd home/awekie/GKB4
+   65  pwd
+   66  cd /home/awekie/GKB4
+   67  ls
+   68  head genome_assemblies_all_files.tar 
+   69  tail genome_assemblies_all_files.tar 
+   70  less genome_assemblies_all_files.tar 
+   71  tar xvf genome_assemblies_all_files.tar 
+   72  print ncbi-genomes-2022-01-09/
+   73  head ncbi-genomes-2022-01-09/
+   74  head ncbi-genomes-2022-01-09/README.txt 
+   75  less ncbi-genomes-2022-01-09/README.txt 
+   76  pwd
+   77  ls
+   78  tar-xv(z/j)f ncbi-blast-2.12.0+-x64-win64.tar.gz
+   79  tar-xvf ncbi-blast-2.12.0+-x64-win64.tar.gz
+   80  tar -xvf ncbi-blast-2.12.0+-x64-win64.tar.gz 
+   81  ls
+   82  tar -xvf genome
+   83  ls
+   84  pwd
+   85  cd /home/awekie/CKB4
+   86  cd /home/awekie/GKB4
+   87  ls
+   88  head ncbi-genomes-2022-01-09/
+   89  pwd
+   90  cd /home/awekie/GKB4
+   91  cd /home/awekie/GKB4/ncbi-genomes-2022-01-09/
+   92  ls
+   93  view README.txt 
+   94  pwd
+   95  ls
+   96  tar zxvpf ncbi-blast-2.12.0+-x64-linux.tar.gz 
+   97  ls
+   98  cd ncbi-blast-2.12.0+/
+   99  export PATH=$PATH:$HOME/ncbi-blast-2.10.1+/bin
+  100  mkdir $HOME/blastdb
+  101  cd $HOME/blastdb
+  102  ls
+  103  perl ../bin/update_blastdb.pl --passive --decompress 16S_ribosomal_RNA
+  104  ..
+  105  ../
+  106  cd..
+  107  cd ..
+  108  ls
+  109  pwd
+  110  cd $HOME/blastdb
+  111  perl ../bin/update_blastdb.pl --passive --decompress 16S_ribosomal_RNA
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd ncbi-blast-2.12.0+/
+  116  ls
+  117  perl ../bin/update_blastdb.pl --passive --decompress 16S_ribosomal_RNA
+  118  cd bin
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd blastdb/
+  123  ls
+  124  perl ../bin/update_blastdb.pl --passive --decompress
+  125  perl ..bin
+  126  cd ..
+  127  ls
+  128  cd $home
+  129  ls
+  130  cd blastdb/
+  131  perl ../ncbi-blast-2.12.0+/bin/updateblastdb.pl
+  132  perl "print 'Hello';"
+  133  perl ../updateblastdb.pl
+  134  cd ..
+  135  cd ncbi-blast-2.12.0+/
+  136  perl /bin/updateblastdb.pl
+  137  cd /bin
+  138  ls
+  139  pwd
+  140  cd ..
+  141  pwd
+  142  cd home/awekie
+  143  pwd
+  144  ls
+  145  cd ncbi-blast-2.12.0+/
+  146  cd /home/awekie/ncbi-blast-2.12.0+/bin
+  147  perl update_blastdb.pl
+  148  perl update_blastdb.pl --passive --decompress
+  149  perl update_blastdb.pl --passive --decompress 16S_ribosomal_RNA
+  150  ls -l
+  151  blastn -help
+  152  ls
+  153  blastn
+  154  ./blastn -help
+  155  export PATH=$PATH:$HOME/ncbi-blast-2.10.1+/bin
+  156  blastn -help
+  157  cd $HOME/blastdb
+  158  pwd
+  159  perl ../bin/updateblastdb.pl --passive --decompress 16S_ribosomal_RNA
+  160  perl ../ncbi-blast-2.12.0+/bin/updateblastdb.pl --passive --decompress 16S_ribosomal_RNA
+  161  perl ../ncbi-blast-2.12.0+/bin/updateblastdb.pl --passive --decompress 16S_ribsomal_RNA
+  162  perl cd ../ncbi-blast-2.12.0+/bin/updateblastdb.pl --passive --decompress 16S_ribosomal_RNA
+  163  perl ../ncbi-blast-2.12.0+/bin/updateblastdb.pl --passive --decompress 16S_ribosomal_RNA
+  164  pwd
+  165  ls
+  166  cd ..
+  167  pwd
+  168  ls
+  169  cd $HOME/blastdb
+  170  perl ../ncbi-blast-2.12.0+/bin/updateblastdb.pl --passive --decompress 16S_ribosomal_RNA
+  171  perl ../ncbi-blast-2.12.0+/bin/update_blastdb.pl --passive --decompress 16S_ribosomal_RNA
+  172  blastn -help
+  173  perl ../ncbi-blast-2.12.0+/bin/blastn
+  174  cd ../ncbi-blast-2.12.0+/bin
+  175  ls
+  176  install blastn
+  177  intall --help
+  178  blastn -help
+  179  ./blastn -help
+  180  export BLASTDB=$HOME/blastdb
+  181  blastn -help
+  182  apt blastn
+  183  sudo apt install ncbi-blast+
+  184  blastn -help
+  185  sudo apt install ncbi-blast+
+  186  blastn -help
+  187  makeblastdb -help
+  188  ls
+  189  cd ..
+  190  ls
+  191  cd ..
+  192  ls
+  193  blastn -help
+  194  blastdbcmd -db 16S_ribosomal_RNA -entry nr_025000 -out 16S_query.fa
+  195  blastn -db 16S_ribosomal_RNA -query 16_S.fa -task blastn -dust no -outfmt "7 delim=, quacc sacc evalue bitscore qcovus pident" -max_target_seqs 5
+  196  blastn -db 16S_ribosomal_RNA -query 16S_query.fa -task blastn -dust no -outfmt "7 delim=, quacc sacc evalue bitscore qcovus pident" -max_target_seqs 5
+  197  ls
+  198  history
+  199  history -w
+  200  pwd
+  201  ls
+  202  cd ncbi-genomes-2022-01-20
+  203  ls
+  204  head GCA_018691715.1_ASM1869171v1_genomic.fna.gz 
+  205  history
+  206  gzip -d GCA_018691715.1_ASM1869171v1_genomic.fna.gz 
+  207  ls
+  208  head GCA_018691715.1_ASM1869171v1_genomic.fna 
+  209  makeblastdb GCA_018691715.1_ASM1869171v1_genomic.fna 
+  210  makeblastdb help
+  211  makeblastdb -h
+  212  makeblastdb-h
+  213  -help makeblastdb
+  214  makeblastdb -h
+  215  makeblastdb-h
+  216  makeblastdb -help
+  217  makeblastdb -in GCA_018691715.1_ASM1869171v1_genomic.fna -parse_sequids -dbtype nucl  -title 2021_cinn_test_DB
+  218  makeblastdb -in GCA_018691715.1_ASM1869171v1_genomic.fna -dbtype nucl  -title 2021_cinn_test_DB
+  219  blastn -help
+  220  pwd
+  221  ls
+  222  blastn -query cinnamomi_rRNA.fasta -db GCA_018691715.1_ASM1869171v1_genomic.fna.nsq
+  223  blastn -query cinnamomi_rRNA.fasta
+  224  blastn -query cinnamomi_rRNA.fasta -db GCA_018691715.1_ASM1869171v1_genomic.fna.nin
+  225  blastn -db GCA_018691715.1_ASM1869171v1_genomic.fna.nin -query cinnamomi_rRNA.fasta
+  226  blastn -db GCA_018691715.1_ASM1869171v1_genomic.fna -query cinnamomi_rRNA.fasta
+  227  history> version_history_2
