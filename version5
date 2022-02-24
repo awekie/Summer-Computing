@@ -1,0 +1,90 @@
+    1  pwd
+    2  ls
+    3  cs signalp/
+    4  cd signalp/
+    5  ls
+    6  gunzip signalp-6.0g.slow_sequential.tar.gz 
+    7  sudo gunzip signalp-6.0g.slow_sequential.tar.gz 
+    8  ls
+    9  cd signalp/
+   10  ls
+   11  sudo gunzip signalp-6.0g.slow_sequential.tar.gz 
+   12  ls
+   13  cd signalp/
+   14  ls
+   15  gzip -d signalp-6.0g.slow_sequential.tar.gz 
+   16  sudo gzip -d signalp-6.0g.slow_sequential.tar.gz 
+   17  ls
+   18  cd ../
+   19  ls
+   20  cd ../
+   21  ls
+   22  cd awekie/
+   23  ls
+   24  cd signalp/
+   25  ls
+   26  tar -xvf signalp-6.0g.slow_sequential.tar 
+   27  sudo tar -xvf signalp-6.0g.slow_sequential.tar 
+   28  ls
+   29  cd signalp6_slow_sequential/
+   30  ls
+   31  cd sig
+   32  cd signalp-6-package/
+   33  ls
+   34  pip install signalp-6-package
+   35  python3
+   36  sudo apt install python3-pip
+   37  ls /usr/bin/python*
+   38  sudo apt-get purge --auto-remove python3.5
+   39  ls /usr/bin/python*
+   40  sudo apt-get purge --auto-remove python
+   41  sudo apt-get purge --auto-remove python3
+   42  ls /usr/bin/python*
+   43  sudo apt-get update
+   44  sudo apt-get install python3
+   45  ls
+   46  cd../
+   47  cd ../
+   48  ls
+   49  cd signalp-6-package/
+   50  ls
+   51  sudo install signalp-6-package/
+   52  cd signalp/
+   53  ls
+   54  pip install signalp-6-package
+   55  cd../
+   56  ls
+   57  cd ../
+   58  ls
+   59  cd ../
+   60  ls
+   61  pip install signalp-6-package
+   62  pip
+   63  sudo apt install python3-pip
+   64  pwd
+   65  ls
+   66  cd signalp-6-package/
+   67  pip install signalp-6-package
+   68  cd ../
+   69  pip install signalp-6-package/
+   70  ls
+   71  cd signalp-6-package/
+   72  ls
+   73  python3
+   74  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+   75  history>version5
+   76  history > version5
+   77  sudo history > version5
+   78  sudo history > version6
+   79  sudo history > lemmesave
+   80  history -w
+   81  sudo history -w > version 5
+   82  cd
+   83  sudo history > version5
+   84  sudo history -w > version 5
+   85  sudo apt-get update
+   86  sudo history -w > version 5
+   87  sudo apt-get install history
+   88  chsh -s /bin/bash
+   89  sudo apt-get install bash
+   90  history > version5
