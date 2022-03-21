@@ -1,0 +1,858 @@
+    1  pwd
+    2  ls
+    3  cs signalp/
+    4  cd signalp/
+    5  ls
+    6  gunzip signalp-6.0g.slow_sequential.tar.gz 
+    7  sudo gunzip signalp-6.0g.slow_sequential.tar.gz 
+    8  ls
+    9  cd signalp/
+   10  ls
+   11  sudo gunzip signalp-6.0g.slow_sequential.tar.gz 
+   12  ls
+   13  cd signalp/
+   14  ls
+   15  gzip -d signalp-6.0g.slow_sequential.tar.gz 
+   16  sudo gzip -d signalp-6.0g.slow_sequential.tar.gz 
+   17  ls
+   18  cd ../
+   19  ls
+   20  cd ../
+   21  ls
+   22  cd awekie/
+   23  ls
+   24  cd signalp/
+   25  ls
+   26  tar -xvf signalp-6.0g.slow_sequential.tar 
+   27  sudo tar -xvf signalp-6.0g.slow_sequential.tar 
+   28  ls
+   29  cd signalp6_slow_sequential/
+   30  ls
+   31  cd sig
+   32  cd signalp-6-package/
+   33  ls
+   34  pip install signalp-6-package
+   35  python3
+   36  sudo apt install python3-pip
+   37  ls /usr/bin/python*
+   38  sudo apt-get purge --auto-remove python3.5
+   39  ls /usr/bin/python*
+   40  sudo apt-get purge --auto-remove python
+   41  sudo apt-get purge --auto-remove python3
+   42  ls /usr/bin/python*
+   43  sudo apt-get update
+   44  sudo apt-get install python3
+   45  ls
+   46  cd../
+   47  cd ../
+   48  ls
+   49  cd signalp-6-package/
+   50  ls
+   51  sudo install signalp-6-package/
+   52  cd signalp/
+   53  ls
+   54  pip install signalp-6-package
+   55  cd../
+   56  ls
+   57  cd ../
+   58  ls
+   59  cd ../
+   60  ls
+   61  pip install signalp-6-package
+   62  pip
+   63  sudo apt install python3-pip
+   64  pwd
+   65  ls
+   66  cd signalp-6-package/
+   67  pip install signalp-6-package
+   68  cd ../
+   69  pip install signalp-6-package/
+   70  ls
+   71  cd signalp-6-package/
+   72  ls
+   73  python3
+   74  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+   75  history>version5
+   76  history > version5
+   77  sudo history > version5
+   78  sudo history > version6
+   79  sudo history > lemmesave
+   80  history -w
+   81  pwd
+   82  rm version
+   83  ls
+   84  makedir catchall
+   85  mkdir catchall
+   86  ls
+   87  mv version5 catchall/\
+   88  ls
+   89  cd signalp/
+   90  ls
+   91  cd signalp6_slow_sequential/
+   92  ls
+   93  cd sig
+   94  cd signalp-6-package/
+   95  ls
+   96  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+   97  cd ../
+   98  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+   99  ls
+  100  cd signalp-6-package/
+  101  ls
+  102  cd signalp/
+  103  ls
+  104  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  105  cd ../
+  106  ls
+  107  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  108  cd ../
+  109  ls
+  110  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  111  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+  112  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  113  python3
+  114  signalp6 usage
+  115  signalp6 -h
+  116  ls
+  117  pwd
+  118  cd 
+  119  ls
+  120  cd REPET/
+  121  ls
+  122  gzip -d REPET_linux-x64-3.0.tar.gz 
+  123  ls
+  124  tar -xvf REPET_linux-x64-3.0.tar 
+  125  ls
+  126  cd REPET_linux-x64-3.0/
+  127  ls
+  128  cd doc/
+  129  ls
+  130  head README
+  131  view README
+  132  ls
+  133  cd REPET/
+  134  ls
+  135  cd REPET_linux-x64-3.0/
+  136  ls
+  137  cd doc
+  138  ls
+  139  view TEdenovo_tuto.txt 
+  140  cd
+  141  REPET_PATH
+  142  ls
+  143  cd REPET/
+  144  ls
+  145  cd REPET_linux-x64-3.0/
+  146  ls
+  147  cd doc
+  148  ls
+  149  view README
+  150  view INSTALL 
+  151  view FAQ
+  152  view TEdenovo_tuto.txt 
+  153  sudo apt install REPET
+  154  cd
+  155  ls
+  156  cd REPET/
+  157  ls
+  158  cd REPET_linux-x64-3.0/
+  159  ls
+  160  sudo apt install setup_REPET.py
+  161  install setup_REPET.py
+  162  veiw setup_REPET.py
+  163  view setup_REPET.py
+  164  cd denovo_pipe/
+  165  ls
+  166  cd ../
+  167  REPET_PATH=$HOME/src/repet_pipe/
+  168  ls
+  169  $HOME
+  170  cd
+  171  ls -a
+  172  cd
+  173  ls
+  174  cd REPET/
+  175  ls
+  176  cd REPET_linux-x64-3.0/
+  177  ls
+  178  cd
+  179  ls
+  180  cd catchall/
+  181  ls
+  182  cd ColorTool/
+  183  ls
+  184  Colortool.exe
+  185  ColorTool.exe -b campbell.ini
+  186  ls
+  187  cd
+  188  history>version6
+  189  ls
+  190  powd
+  191  ls
+  192  cd catchall/
+  193  ls
+  194  mkdir GKB4
+  195  ls
+  196  mv GKB4_genome_assembly.tar GKB4
+  197  ls
+  198  cd GKB4/
+  199  ls
+  200  tar -xvf GKB4_genome_assembly.tar 
+  201  ls
+  202  cd ncbi-genomes-2022-02-24/
+  203  ls
+  204  gzip -d GCA_018691715.1_ASM1869171v1_genomic.fna.gz 
+  205  ls
+  206  mv GCA_018691715.1_ASM1869171v1_genomic.fna GKB4_genome_assembly GKB4
+  207  mv GCA_018691715.1_ASM1869171v1_genomic.fna GKB4_genome_assembly ../
+  208  ls
+  209  cd ../
+  210  ls
+  211  sudo apt install rename
+  212  ls
+  213  rename GCA_018691715.1_ASM1869171v1_genomic.fna GKB4_genome_assembly
+  214  mv GCA_018691715.1_ASM1869171v1_genomic.fna GKB4_genome_assembly.fna
+  215  ls
+  216  cd ncbi-genomes-2022-02-24/
+  217  ls
+  218  mv README.txt ../
+  219  ls
+  220  mv md5checksums.txt ../
+  221  ls
+  222  cd ../
+  223  ls
+  224  rm ncbi-genomes-2022-02-24/
+  225  rm -r ncbi-genomes-2022-02-24/
+  226  ls
+  227  cd
+  228  ls
+  229  cd REP
+  230  cd REPET/
+  231  ls
+  232  cd REPET_linux-x64-3.0/
+  233  ls
+  234  REPET_PATH=$HOME/REPET/
+  235  export REPET_PATH=$HOME/REPET/
+  236  export PATH=$REPET_PATH/bin:...:$PATH
+  237  cd
+  238  history > version 5.5
+  239  history > version 5_5
+  240  history>version 5_5
+  241  history > version5.5
+  242  mkdir $HOME/DmelChr4_TEdenovo
+  243  ls
+  244  cd DmelChr4_TEdenovo/
+  245  ls
+  246  pwd
+  247  ln -s $REPET_PATH/db/DmelChr4.fa
+  248  cp $REPET_PATH/config/TEdenovo.cfg
+  249  cd ../
+  250  ls
+  251  cd REPET/
+  252  ls
+  253  cd REPET_linux-x64-3.0/
+  254  ls
+  255  cd co
+  256  cd config/
+  257  ls
+  258  cd 
+  259  ls
+  260  cd REPET/
+  261  ls
+  262  cd RE
+  263  cd REPET_linux-x64-3.0/
+  264  ls
+  265  ln -s $REPET_PATH/db/TEdenovo.cfg
+  266  ls -l /db/TEdenovo.cfg
+  267  ls
+  268  cd db/
+  269  ls
+  270  cd ../
+  271  ls
+  272  cd config/
+  273  ls
+  274  cd ../
+  275  ls
+  276  rm TEdenovo.cfg 
+  277  cp $REPET_PATH/config/TEdenovo.cfg
+  278  cp $REPET_PATH/config/TEdenovo.cfg .
+  279  ls
+  280  cp $REPET_PATH/config/TEdenovo.cfg
+  281  cd db
+  282  ls
+  283  ln -s $REPET_PATH/db/DmelCr4.fa
+  284  $HOME
+  285  cd
+  286  ls
+  287  cd REPET/
+  288  ls
+  289  cd REPET_linux-x64-3.0/
+  290  ls
+  291  cd
+  292  cd DME
+  293  cd DmelChr4_TEdenovo/
+  294  ls
+  295  ln -s $REPET_PATH/db/DmelCr4.fa
+  296  cp $REPET_PATH/config/TEdenovo.cfg
+  297  cp $REPET_PATH/config/TEdenovo.cfg \$HOME/DmelChr4_TEdenovo/
+  298  $REPET_PATH
+  299  cd
+  300  export REPET_PATH=\$HOME/REPET/
+  301  $REPET_PATH
+  302  ls
+  303  $HOME
+  304  export REPET_PATH=\$HOME/awekie/home/REPET/
+  305  $REPET_PATH
+  306  ls
+  307  pwd
+  308  cd
+  309  $HOME
+  310  $HOME/REPET/
+  311  $REPET_PATH
+  312  export REPET_PATH=$HOME/REPET/
+  313  $REPET_PATH
+  314  cd REPET/
+  315  ls
+  316  export REPET_PATH=\$HOME/REPET/REPET_linux-x64-3.0
+  317  cd
+  318  $REPET_PATH
+  319  cd REPET/REPET_linux-x64-3.0/
+  320  ls
+  321  cd
+  322  export PATH=$REPET_PATH/bin:...:$PATH
+  323  ls
+  324  cd DmelChr4_TEdenovo/
+  325  ls
+  326  rm DmelC
+  327  rm DmelChr4.fa 
+  328  ls
+  329  rm DmelCr4.fa 
+  330  ls
+  331  cd
+  332  cd DmelChr4_TEdenovo/
+  333  ln -s $REPET_PATH/db/DmelChr4.fa
+  334  ls
+  335  cp $REPET_PATH/config/TEdenovo.cfg
+  336  cp $REPET_PATH/config/TEdenovo.cfg \$HOME/DmelChr4_TEdenovo/
+  337  cd
+  338  ls
+  339  cd REPET/
+  340  ls
+  341  cd REPET_linux-x64-3.0/
+  342  ls
+  343  cd config/
+  344  ls
+  345  $REPET_PATH
+  346  REPET_PATH
+  347  cd $REPET_PATH
+  348  cd 
+  349  cp $REPET_PATH/config/TEdenovo.cfg DmelChr4_TEdenovo/
+  350  cd DmelChr4_TEdenovo/
+  351  cp $REPET_PATH/config/TEdenovo.cfg DmelChr4_TEdenovo/
+  352  cp awekie/REPET/REPET_linux-x64-3.0/config/TEdenovo.cfg DmelChr4_TEdenovo/
+  353  cd
+  354  cp REPET/REPET_linux-x64-3.0/config/TEdenovo.cfg DmelChr4_TEdenovo/
+  355  cd DmelChr4_TEdenovo/
+  356  ls
+  357  TEdenovo.cfg
+  358  view TEdenovo.cfg 
+  359  edit TEdenovo.cfg 
+  360  cd
+  361  history > REPETprep
+  362  ls
+  363  mv REPETprep REPET
+  364  ls
+  365  mv mysql-8.0.28-winx64.zip mysql-8.0.28-winx64
+  366  ls
+  367  mv mysql-8.0.28-winx64.zip\:Zone.Identifier  mysql-8.0.28-winx64
+  368  ls
+  369  cd JELLYFISH/
+  370  ls
+  371  cd jellyfish-2.3.0/
+  372  ls
+  373  cd
+  374  ls
+  375  cd REPET/
+  376  ls
+  377  mv REPETprep ../src
+  378  ls
+  379  cd
+  380  ls
+  381  cd src
+  382  ls
+  383  cd
+  384  rm REPET/
+  385  rm -r REPET/
+  386  ls
+  387  $HOME
+  388  cd
+  389  ls
+  390  $PATH
+  391  sudo port install gcc48
+  392  sudo apt-get port
+  393  export PATH=$PATH:/opt/local/bin
+  394  export MANPATH=$MANPATH:/opt/local/share/man
+  395  export INFOPATH=$INFOPATH:/opt/local/share/info
+  396  sudo port install gcc48
+  397  gcc --version
+  398  %make check
+  399  % make check
+  400  cd JELLYFISH/
+  401  ls
+  402  cd jellyfish-2.3.0/
+  403  ls
+  404  % make check
+  405  make check
+  406  pwd
+  407  cd
+  408  ls
+  409  cd NZD
+  410  cd NZF
+  411  cd NZFS3750/
+  412  ls
+  413  view SRR2125731.1
+  414  $PATH
+  415  ls
+  416  cd JELLYFISH/
+  417  ls
+  418  cd jellyfish-2.3.0/
+  419  ls
+  420  cd jellyfish/
+  421  ls
+  422  cd
+  423  cd NZFS3750/
+  424  ls
+  425  jellyfish count -C -m 21 -s 100000000 -t 2 *.fastq -o SRR2125731.1.jf
+  426  jellyfish count -C -m 21 -s 100000000 -t 2 -o SRR2125731.1.jf
+  427  jellyfish histo -t 2 SRR2125731.1.jf > reads.histo
+  428  ls
+  429  head reads.histo 
+  430  view reads.histo 
+  431  ls
+  432  mkdir trial_1
+  433  ls
+  434  mv SRR2125731.1 trial_1/
+  435  mv SRR2125731.1.jf trial_1/
+  436  ls
+  437  mv SRR2125731.1\:Zone.Identifier 
+  438  mv SRR2125731.1\:Zone.Identifier trial_1/
+  439  mv reads.histo trial_1/
+  440  ls
+  441  cd
+  442  wget --output-document sratoolkit.tar.gz http://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-ubuntu64.tar.gz
+  443  ls
+  444  mkdir SRATOOLKIT
+  445  ls
+  446  mv sratoolkit.tar.gz SRATOOLKIT/
+  447  ls
+  448  cd SRATOOLKIT/
+  449  ls
+  450  gzip-d sratoolkit.tar.gz 
+  451  gzip -d sratoolkit.tar.gz 
+  452  ls
+  453  tar -xvf sratoolkit.tar 
+  454  ls
+  455  export PATH=$PATH:$PWD/sratoolkit.2.11.2-ubuntu64
+  456  export PATH=$PATH:$PWD/sratoolkit.2.11.2-ubuntu64/bin
+  457  which fastq-dump
+  458  vdb-config -i
+  459  fastq-dump --stdout SRR390728 | head -n 8
+  460  ls
+  461  cd sratoolkit.2.11.2-ubuntu64/
+  462  ls
+  463  head README.md
+  464  view README.md
+  465  fastq-dump -h
+  466  ls
+  467  cd
+  468  ls
+  469  cd NZFS3750/
+  470  ls
+  471  cd trial_1/
+  472  ls
+  473  cd
+  474  ls
+  475  cd SRATOOLKIT/
+  476  ls
+  477  cd sratoolkit.2.11.2-ubuntu64/
+  478  ls
+  479  cd prefetch/
+  480  $vdb-config --prefectch-to-cwd
+  481  vdb-config -i
+  482  $vdb-config --prefectch-to-cwd
+  483  vdb-config --prefectch-to-cwd
+  484  vdb-config --prefetch-to-cwd
+  485  df -h
+  486  fasterq-dump SRR2125731
+  487  cd ../
+  488  ls
+  489  cd ../
+  490  ls
+  491  cd
+  492  ls
+  493  cd signalp/
+  494  ls
+  495  cd signalp6_slow_sequential/
+  496  ls
+  497  cd signalp-6-package/
+  498  ls
+  499  cd
+  500  ls
+  501  cd catchall/
+  502  ls
+  503  cd GKB4/
+  504  ls
+  505  signalp6 -h
+  506  pwd
+  507  ls
+  508  tar -xvf genome_assemblies_prot_fasta.tar 
+  509  ls
+  510  cd ncbi-genomes-2022-03-08/
+  511  ls
+  512  gzip -d GCA_018691715.1_ASM1869171v1_protein.faa.gz 
+  513  ls
+  514  head GCA_018691715.1_ASM1869171v1_protein.faa 
+  515  cd ../
+  516  ls
+  517  cd ncbi-genomes-2022-03-08/
+  518  ls
+  519  mv GCA_018691715.1_ASM1869171v1_protein.faa ../
+  520  ls
+  521  cd
+  522  ls
+  523  mv GCA_018691715.1_ASM1869171v1_protein.faa signalp/
+  524  sudo mv GCA_018691715.1_ASM1869171v1_protein.faa signalp/
+  525  ls
+  526  cd signalp/
+  527  ls
+  528  mv GCA_018691715.1_ASM1869171v1_protein.faa signalp
+  529  mv GCA_018691715.1_ASM1869171v1_protein.faa signalp6_slow_sequential/
+  530  sudo mv GCA_018691715.1_ASM1869171v1_protein.faa signalp6_slow_sequential/
+  531  ls
+  532  cd signalp6_slow_sequential/
+  533  ls
+  534  sudo mv GCA_018691715.1_ASM1869171v1_protein.faa signalp-6-package/
+  535  ls
+  536  cd signalp-6-package/
+  537  ls
+  538  sudo mv GCA_018691715.1_ASM1869171v1_protein.faa signalp/
+  539  ls
+  540  cd signalp/
+  541  ls
+  542  signalp6 --GCA_018691715.1_ASM1869171v1_protein.faa  
+  543  ls
+  544  cd signalp/
+  545  ls
+  546  cd signalp6_slow_sequential/
+  547  ls
+  548  cd signalp-6-package/
+  549  ls
+  550  cd signalp/
+  551  ls
+  552  mv GCA_018691715.1_ASM1869171v1_protein.faa GKB4_protein.fa
+  553  sudo mv GCA_018691715.1_ASM1869171v1_protein.faa GKB4_protein.fa
+  554  ls
+  555  signalp6 --GKB4_protein.fa
+  556  signalp6 --GKB4_protein.fa --signalp
+  557  pwd
+  558  signalp6 --GKB4_protein.fa /home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp --/home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp
+  559  signalp6 --fastafile GKB4_protein.fa /home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp --output_dir /home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp
+  560  signalp6 --fastafile GKB4_protein.fa home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp --output_dir home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp
+  561  signalp6 --fastafile GKB4_protein.fa --output_dir signalp
+  562  mkdir output_files
+  563  sudo mkdir output_files
+  564  signalp6 --fastafile GKB4_protein.fa --output_dir output_files
+  565  signalp -h
+  566  signalp6 -h
+  567  pip install update
+  568  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+  569  pip install signalp6 --upgrade
+  570  pip install signalp-6-package/ --upgrade
+  571  cd
+  572  pip install signalp-6-package/ --upgrade
+  573  pip install signalp-6-package --upgrade
+  574  signalp6 -h
+  575  signalp6 --fastafile GKB4_protein.fa --output_dir output_files
+  576  cd signalp/
+  577  cd signalp6_slow_sequential/
+  578  cd
+  579  ls
+  580  cd signalp/
+  581  ls
+  582  cd signalp6_slow_sequential/
+  583  ls
+  584  cd signalp-6-package/
+  585  ls
+  586  cd signalp/
+  587  ls
+  588  signalp6 --fastafile GKB4_protein.fa --output_dir output_files
+  589  $SIGNALP_DIR/model_weights/
+  590  cd $SIGNALP_DIR/model_weights/
+  591  ls
+  592  dir s
+  593  dir sequential_models_signalp6/
+  594  cd
+  595  cd signalp/
+  596  cd signalp6_slow_sequential/
+  597  cd signalp-6-package/
+  598  cd signalp/
+  599  ls
+  600  cd ../
+  601  ls
+  602  cd models/
+  603  ls
+  604  cd sequential_models_signalp6/
+  605  ls
+  606  pwd
+  607  ls
+  608  cd ../
+  609  ls
+  610  cd
+  611  ls
+  612  ls -a
+  613  cd .local
+  614  ls
+  615  cd lib/
+  616  ls
+  617  cd python3.8/
+  618  ls
+  619  cd site-packages/
+  620  ls
+  621  cd signalp
+  622  cd signalp6
+  623  ls
+  624  cd model_weights/
+  625  ls
+  626  view README.md 
+  627  cd
+  628  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  629  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+  630  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  631  SIGNALP_DIR
+  632  $SIGNALPDIR
+  633  cd $SIGNALP_DIR
+  634  ls
+  635  cd model_weights/
+  636  ls
+  637  cd
+  638  ls
+  639  cd signalp/
+  640  ls
+  641  cd signalp6_slow_sequential/
+  642  ls
+  643  cd signalp-6-package/
+  644  cd
+  645  cd signalp//signalp6_slow_sequential/signalp-6-package/
+  646  ls
+  647  cd models/
+  648  ls
+  649  cd $SIGNALP_DIR
+  650  s
+  651  ls
+  652  cd model_weights/
+  653  ls
+  654  cd
+  655  ls
+  656  gzip -d signalp-6.0g.fast.tar.gz 
+  657  ls
+  658  tar -xvf signalp
+  659  tar -xvf signalp-6.0g.fast.tar 
+  660  ls
+  661  cd signalp
+  662  cd
+  663  cd signalp6_fast/
+  664  ls
+  665  cd signalp-6-package/
+  666  ls
+  667  cd signalp/
+  668  ls
+  669  SIGNALP_DIR=$(python3 -c "import signalp; import os; print(os.path.dirname(signalp.__file__))" )
+  670  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  671  cd ../../
+  672  cp -r signalp-6-package/models/* $SIGNALP_DIR/model_weights/
+  673  cd
+  674  ls -a
+  675  cd .local
+  676  ls
+  677  cd lib/
+  678  ls
+  679  cd python3.8/
+  680  ls
+  681  cd site-packages/
+  682  ls
+  683  cd
+  684  cd signalp/signalp6_slow_sequential/signalp-6-package/
+  685  ls
+  686  cd signalp/
+  687  ls
+  688  cd model_weights/
+  689  ls
+  690  cd
+  691  ls
+  692  cd ncbi
+  693  cd ncbi-genomes-2022-03-08/
+  694  ls
+  695  cd
+  696  cd catchall/
+  697  ls
+  698  cd GKB
+  699  cd GKB4/
+  700  ls
+  701  signalp6 -h
+  702  cd
+  703  ls
+  704  cd $SIGNALP_PATH
+  705  ls
+  706  cd $SIGNALP_DIR
+  707  ls
+  708  ls -a
+  709  cd
+  710  cd signalp/signalp6_slow_sequential/signalp-6-package/
+  711  ls
+  712  cd signalp/
+  713  ls
+  714  cd
+  715  ls
+  716  mv GKB4_protein_assembly.tar to signalp/signalp-6.0g.slow_sequential.tar
+  717  mv GKB4_protein_assembly.tar signalp
+  718  sudo mv GKB4_protein_assembly.tar signalp/signalp
+  719  ls
+  720  cd signalp/signalp6_slow_sequential/
+  721  ls
+  722  cd signalp-6-package/
+  723  ls
+  724  cd ../../
+  725  ls
+  726  sudo mv signalp-6.0g.slow_sequential.tar signalp6_slow_sequential/
+  727  ls
+  728  cd signalp6_slow_sequential/
+  729  ls
+  730  mv signalp-6.0g.slow_sequential.tar ../
+  731  sudo mv signalp-6.0g.slow_sequential.tar ../
+  732  ls
+  733  cd ../
+  734  cd
+  735  history > 9_3_22
+  736  cd catchall/
+  737  ls
+  738  signalp6 -ff test_effector.fasta -od output_files ../signalp/signalp6_slow_sequential/signalp-6-package/
+  739  signalp6 -ff test_effector.fasta -org eukarya -od output_files ../signalp/signalp6_slow_sequential/signalp-6-package/signalp/output_files/
+  740  cd ../signalp/signalp6_slow_sequential/signalp-6-package/signalp/output_files/
+  741  cd
+  742  cd catchall/
+  743  signalp6 -ff test_effector.fasta -org eukarya -od output_files ../signalp/signalp6_slow_sequential/signalp-6-package/signalp/
+  744  cd
+  745  cd catchall/
+  746  cd 
+  747  cd
+  748  ../signalp/signalp6_slow_sequential/signalp-6-package/signalp/output_files/
+  749  cd signalp/signalp6_slow_sequential/signalp-6-package/signalp/
+  750  ls
+  751  signalp6 -ff /\$HOME/catchall/test_effector.fasta -org eukarya -od output_files
+  752  cd $HOME
+  753  ls
+  754  cd catchall/
+  755  ls
+  756  cd
+  757  cd signalp/signalp6_slow_sequential/signalp-6-package/signalp/
+  758  signalp6 -ff /$HOME/catchall/test_effector.fasta -org eukarya -od output_files
+  759  sudo signalp6 -ff /$HOME/catchall/test_effector.fasta -org eukarya -od output_files
+  760  chown -h
+  761  chmod -h
+  762  chmod --help
+  763  chmod u=rwx,g=rx,o=r output_files
+  764  sudo chmod u=rwx,g=rx,o=r output_files
+  765  signalp6 -ff /$HOME/catchall/test_effector.fasta -org eukarya -od output_files
+  766  sudo chmod u=rwx,g=rwx,o=rwx output_files
+  767  signalp6 -ff /$HOME/catchall/test_effector.fasta -org eukarya -od output_files
+  768  cd output_files/
+  769  ls
+  770  signalp6 -ff /$HOME/signalp/signalp6_slow_sequential/signalp-6-package/signalp/GKB4_protein.fa  -org eukarya -od output_files
+  771  ls
+  772  cd output_files/
+  773  ls
+  774  history > 11_3_22.2
+  775  data<-read.csv(examples.csv)
+  776  ls
+  777  cd E
+  778  unzip EffectorP-3.0-main.zip 
+  779  sudo apt-get unzip
+  780  sudo apt-get install unzip
+  781  unzip EffectorP-3.0-main.zip 
+  782  ls
+  783  cd EffectorP-3.0-main/
+  784  ls
+  785  unzip weka-3-8-4.zip 
+  786  ls
+  787  cd weka-3-8-4/
+  788  ls
+  789  echo $CLASSPATH
+  790  echo $WEKAINSTALL
+  791  pwd
+  792  WEKAINSTALL=/home/awekie/EffectorP-3.0-main/weka-3-8-4
+  793  echo $WEKAINSTALL
+  794  echo $PATH
+  795  CLASSPATH=/home/awekie/EffectorP-3.0-main/weka-3-8-4
+  796  echo $CLASSPATH
+  797  CLASSPATH=/home/awekie/EffectorP-3.0-main/weka-3-8-4/weka.jar
+  798  echo $CLASSPATH
+  799  ls
+  800  cd doc
+  801  ls
+  802  cd weka/
+  803  ls
+  804  cd
+  805  python EffectorP.py -i Effectors.fasta
+  806  python3 EffectorP.py -i Effectors.fasta
+  807  cd $WEKAINSTALL
+  808  ls
+  809  cd ../
+  810  ls
+  811  python3 EffectorP.py -i Effectors.fasta
+  812  cd
+  813  sudo apt install default-jre
+  814  apt-get update
+  815  sudo apt-get update
+  816  sudo apt install default-jre
+  817  python3 EffectorP.py -i Effectors.fasta
+  818  pwd
+  819  cd EffectorP-3.0-main/
+  820  ls
+  821  python3 EffectorP.py -i Effectors.fasta
+  822  echo $SIGNALP
+  823  echo $SIGNAL_P
+  824  echo $SIGNALP_DIR
+  825  cd $SIGNALP_DIR
+  826  ls
+  827  pwd
+  828  echo $SIGNAPDIR
+  829  echo $SIGNALP_DIR
+  830  cd EffectorP-3.0-main/
+  831  ls
+  832  python3 EffectorP.py -i processed_entries.fasta
+  833  cd
+  834  python3 /EffectorP.py -i processed entries.fasta
+  835  python3 /EffectorP.py -i processed_entries.fasta
+  836  EffectorP=/home/awekie/EffectorP-3.0-main
+  837  echo $EffectorP
+  838  python3 $EffectorP/EffectorP.py -i processed_entries.fasta
+  839  python3 $EffectorP/EffectorP.py -i Effectors.fasta
+  840  ls
+  841  cd signalp
+  842  cd signalp6_slow_sequential/signalp-6-package/signalp/output_files/output_files
+  843  ls
+  844  SIGNALP=/home/awekie/signalp/signalp6_slow_sequential/signalp-6-package/signalp/output_files/output_files/
+  845  echo $SIGNALP
+  846  cd
+  847  cd EffectorP-3.0-main/
+  848  ls
+  849  python3 EffectorP.py -i $SIGNALP/processed_entries
+  850  python3 EffectorP.py -i $SIGNALP/processed_entries.fasta
+  851  EffectorP-h
+  852  EffectorP -h
+  853  python3 EffectorP -h
+  854  python3 EffectorP.py -h
+  855  python3 EffectorP.py -E Pytophthora_Cinnamomi_secreted_Effectome.fasta -i $SIGNALP/processed_entries.fasta
+  856  ls
+  857  head Pytophthora_Cinnamomi_secreted_Effectome.fasta 
+  858  history>21_3_22
